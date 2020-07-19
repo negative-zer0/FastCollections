@@ -9,7 +9,7 @@ import java.util.Objects;
  * @since 18.07.2020
  */
 
-public class Main
+public class CollectionsTest
 {
     public static void main(String... args) {
         final int initialCapacity = 10000000;
